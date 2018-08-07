@@ -1,4 +1,8 @@
 <html>
+  <head>
+  <title>
+    good day</title>
+  </head>
 <body>
   <h2>Successfully Deployed War file....</h2>
   <%
